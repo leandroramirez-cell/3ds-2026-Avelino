@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   fotoDocumento: {
-    width: 120,               // Largura (estilo 3x4)
+    width: 125,               // Largura (estilo 3x4)
     height: 170,             // Altura (estilo 3x4)
     marginBottom: 15,
     borderRadius: 4,         
